@@ -1,7 +1,7 @@
 //express and app
 const express = require('express');
 const app = express();
-var PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000;
 
 
 //route handler
